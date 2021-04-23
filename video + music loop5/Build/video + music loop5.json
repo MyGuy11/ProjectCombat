@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ProjectCombat",
+"dataUrl": "video + music loop5.data.unityweb",
+"wasmCodeUrl": "video + music loop5.wasm.code.unityweb",
+"wasmFrameworkUrl": "video + music loop5.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#080708",
+"cacheControl": {"default": "must-revalidate"}
+}
